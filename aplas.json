@@ -1,20 +1,24 @@
 {
-  "id": "b2c_beta",
-  "name": "B2C Beta",
-  "categoryId": "communications",
-  "description": "Multi-channelled cohesive collaboration",
-  "investment_24m": "828",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "86",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "469",
-  "deployment_date": "29/2/16",
-  "end_of_maintenance": "11/1/18",
-  "department": "Legal",
-  "status": "Decomissioned",
-  "end_of_life": "9/11/19",
-  "months_to_renew_support": "26",
-  "sme_email": "Sibilla.Playhill@memento.net.au",
-  "investment_number": "273"
+  "applications": [
+    {
+      "id": "b2c_beta",
+      "name": "B2C Beta",
+      "categoryId": "communications",
+      "description": "Multi-channelled cohesive collaboration",
+      "investment_24m": "828",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "86",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "469",
+      "deployment_date": "29/2/16",
+      "end_of_maintenance": "11/1/18",
+      "department": "Legal",
+      "status": "Decomissioned",
+      "end_of_life": "9/11/19",
+      "months_to_renew_support": "26",
+      "sme_email": "Sibilla.Playhill@memento.net.au",
+      "investment_number": "273"
+    }
+  ]
 }
