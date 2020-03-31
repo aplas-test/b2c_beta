@@ -18,7 +18,66 @@
       "end_of_life": "9/11/19",
       "months_to_renew_support": "26",
       "sme_email": "Sibilla.Playhill@memento.net.au",
-      "investment_number": "273"
+      "investment_number": "273",
+      "integrations": [
+        {
+          "id": "int-479",
+          "name": "INT-479",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+          "sourceApplicationId": "b2c_beta",
+          "targetApplicationId": "social_innovation",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "30/9/14",
+          "sme_name": "Adelice Passby",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "apassby2@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "17/3/17"
+        },
+        {
+          "id": "int-108",
+          "name": "INT-108",
+          "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
+          "description": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
+          "sourceApplicationId": "b2c_beta",
+          "targetApplicationId": "social_innovation",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "8/2/17",
+          "sme_name": "Tonya Oldcroft",
+          "datacentre": "Dandenong",
+          "department": "Datawarehouse",
+          "status": "Active",
+          "sme_email": "toldcrofti@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "14/2/16"
+        },
+        {
+          "id": "int-424",
+          "name": "INT-424",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+          "sourceApplicationId": "b2c_beta",
+          "targetApplicationId": "rightshoring_mobile",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Aggregator",
+          "golive_date": "28/4/16",
+          "sme_name": "Matelda Nuss",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mnussf@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "12/1/15"
+        }
+      ]
     }
   ]
 }
